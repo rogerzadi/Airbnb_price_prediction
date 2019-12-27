@@ -40,4 +40,6 @@ Al final se crean 4 Datasets diferentes, uno donde estan todas las variables num
 
 Se genera un pipeline el cual contiene todos los modelos antes mencionados, esto se prueba con los distintos datasets, el resultado de su métrica de error se almacena en una tabla para ver cuales son los mejores, posteriormente se eligen los 5 mejores modelos y se saca una media
 
+Se utilizo **Grid Searching Bayesiano** para optimizar el modelo de XBoost
+
 se puede ver la competencia en este [link.](https://www.kaggle.com/c/datamex-1019/leaderboard)
